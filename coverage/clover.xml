@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1669638992491" clover="3.2.0">
+  <project timestamp="1669638992491" name="All files">
+    <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3" elements="21" coveredelements="21" complexity="0" loc="18" ncloc="18" packages="1" files="1" classes="1"/>
+    <file name="MainNav.vue" path="C:\Users\georg\OneDrive\Desktop\vue-projects\job-search\src\components\MainNav.vue">
+      <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="48" count="2" type="stmt"/>
+      <line num="52" count="12" type="stmt"/>
+      <line num="58" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
