@@ -58,7 +58,7 @@ export default {
 			menuItems: [
 				"Teams",
 				"Locations",
-				"Life at Boogle",
+				"Life at Boogle Corp",
 				"How we hire",
 				"Students",
 				"Jobs",
